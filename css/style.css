@@ -212,3 +212,33 @@ h3  {
     content: "\e900";
 }
 
+@media (min-width: 700px) {
+
+
+
+.before-img { 
+  height: 600px;
+}
+
+.after-img  {
+  height: 600px;
+}
+
+.donate {
+  height:80px;
+  top: 75%;
+}
+
+.story-text {
+  height: 600px;
+}
+
+body  {
+  font-size: 40px;
+}
+
+footer {
+  height: 450px;
+}
+
+}
